@@ -55,5 +55,5 @@ If you have any questions, encounter issues, or want to provide feedback, please
 [01.yasarduman@gmail.com](mailto:01.yasarduman@gmail.com)
 
 
-
+**Tags:** `Swift` `UIKit` `MVVM-C` `iOS` `Music` `MusicApp`  `DeezerAPI` `POP` `AVFoundation` `Firebase` `ProgrammaticUI` `Programmaticly`
 
